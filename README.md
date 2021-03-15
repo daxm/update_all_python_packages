@@ -1,7 +1,7 @@
 # update_all_python_packages
 Use `pip_update_all.sh` in your project to update all your currently installed Python packages to their latest versions.
 
-__NOTE:  Packages not install via PIP will probably not update.__
+__NOTE:  Packages not installed via PIP will probably not update.__
 
 ## Example
 1.  `cd <your project directory>`
